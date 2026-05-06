@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # 🧬 Optimal Route Planning using Genetic Algorithm
 
 A complete end-to-end web application that uses **Genetic Algorithms** to find optimal routes between cities using real-world geographic coordinates from the World Cities dataset.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/1976d2/ffffff?text=Optimal+Route+Planner+GA)
+
 
 ---
 
